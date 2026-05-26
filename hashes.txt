@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Everything About Us Now
+
+This log tracks the cryptographic history and versioning for the song **Everything About Us Now** (everything-about-us-now).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T16:45:02.634087 | `v1` | `a8bcb47185bbfeda988d02652b03dc6d0ef3b7d4920558ddf41c4bd568c811fc` | `75f478da65df4fdaf1c1c84d6fa625e805b27238518dd7c72c31074dea06d058` | `2026-05-26_everything-about-us-now-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
