@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/everything-about-us-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Everything About Us Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/everything-about-us-now/) |
+| **Get License** | [Obtain a Music License for Everything About Us Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/everything-about-us-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2194)
 
 ---
 
