@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/everything-about-us-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Everything About Us Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/everything-about-us-now/) |
+| **Get License** | [Get License For Everything About Us Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/everything-about-us-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the whiskey in the air, but I am drunk on you
+> Lost in the glow of the fire, baby, we are burning through
+> Every midnight secret that we kept locked away
+> Let the shadows hold us closer till the break of day
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
